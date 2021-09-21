@@ -1,0 +1,221 @@
+
+        *{
+    margin: 3px;
+    padding: 4px;
+    box-sizing: border-box;
+    font-family:;
+}
+
+body{
+    background:rgb(136, 120, 78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    border:solid 5px ;
+    margin: 0px;
+    background:url('../priyanka/index/bgresume.jpg') no-repeat center center/cover;
+    width: 1000px;
+    height: 1100px;
+   
+}
+
+h2{
+    position: absolute;
+    font-size: 50px;
+    color: rgb(252, 252, 252);
+    bottom: 600px;
+    left: 700px;
+}
+h3{
+    position: absolute;
+    font-size: 30px;
+    color: goldenrod;
+    bottom: 550px;
+    left: 800px;
+}
+.img1{
+    width:270px;
+    height: 270px;
+    align:center;
+    margin-left:20px;
+    border: solid 3px gray;
+    border-radius: 200px;
+}
+
+.right{
+    width: 300px;
+    height: 1030px;
+    margin-top:30px;
+    margin-left:20px;
+    border-radius:150px;
+}
+.left{
+   position: absolute;
+   top:200px;
+   left:580px;
+    background:rgb(43, 40, 40);
+    width: 650px;
+    height: 865px;
+    margin-top:10px;
+    margin-left:20px;
+    border-radius:60px;
+    font-size: 25px;
+}
+.td2{
+    margin:0%;
+    color:white;
+    font-size:15px;
+    
+}
+h4{
+    font-size: 19px;
+    padding: 15px;
+    color:goldenrod;
+    text-decoration: none;
+}
+.image{
+    width: 40px;
+    height: 40px;
+    border-radius:50px;
+}
+p{
+    font-size:17px;
+    color:white;
+}
+th{
+    padding-left: 40px;
+    margin:0%;
+    color:goldenrod;
+    font-size: 18px;
+}
+.td1{
+    padding-left: 15px;
+    color:white;
+    font-size: 15px;
+    
+}
+.Precentage{
+    position:relative;
+    width: 30%;
+    height: 6px;
+    background:white;
+    display: block;
+    margin-top: 5px;
+}
+.pr1{
+   position: absolute;
+  top: -3px;
+  left: -2px;
+  width: 75%;
+  background:goldenrod;
+    
+}
+.pr2{
+    position: absolute;
+   top: -3px;
+   left: -2px;
+   width: 80%;
+   background: goldenrod;
+     
+ }
+ .pr3{
+    position: absolute;
+   top: -3px;
+   left: -2px;
+   width: 50%;
+   background: goldenrod;
+     
+ }
+ .pr4{
+    position: absolute;
+   top: -3px;
+   left: -2px;
+   width: 60%;
+   background:goldenrod;
+     
+ }
+
+ .hr1{
+     position: absolute;
+     left:300px;
+     bottom: 190px;
+     width: 6px;
+    height: 28%;
+    margin-bottom: 15px;
+    background: goldenrod;
+ }
+ ul{
+    position: absolute;
+    left:330px;
+    bottom: 130px;
+    width: 30px;
+   height: 20%;
+   
+   
+
+ }
+ li{
+     margin: 15px;
+     padding: 0;
+     font-size:15px;
+     width:250px;
+     height: 30px;
+     color: whitesmoke;
+    
+
+ }
+ .lh1{
+     font-size: 20px;
+     color: goldenrod;
+ }
+ 
+
+ .td3{
+     position:relative;
+     left: 350px;
+     padding-left:30px;
+     font-size: 20px;
+     color: goldenrod;
+     align:right;
+ }
+ hr{
+     background: whitesmoke;
+     
+ }
+
+ .tab{
+     color:azure;
+ }
+ 
+ .d{
+     position: absolute;
+     bottom:85px ;
+     left: 260px;
+     width: 10px;
+     height: 230px;
+     background: white;
+     
+
+ }
+ a{
+     color:white;
+     text-decoration: none;
+ }
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    
