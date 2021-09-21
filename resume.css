@@ -17,7 +17,7 @@ body{
 .container{
     border:solid 5px ;
     margin: 0px;
-    background:url('../priyanka/index/bgresume.jpg') no-repeat center center/cover;
+    background:url('./imgs/bgresume.jpg') no-repeat center center/cover;
     width: 1000px;
     height: 1100px;
    
